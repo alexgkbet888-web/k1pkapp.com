@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game latest version","/","homepage",1
+"version","k1 game latest version check","/guides/latest-version-check/","version",1
+"risk","k1 game old version","/guides/old-version-risks/","risk",1
+"comparison","k1 game v4.0.5 v0.7.52","/guides/v405-vs-v0752/","comparison",1
+"troubleshooting","k1 game update loop","/guides/update-loop-fix/","troubleshooting",1
+"analysis","k1 game version conflict","/guides/version-name-conflicts/","analysis",2
+"freshness","k1 game changelog","/guides/apk-changelog-template/","freshness",2
+"version","k1 game file size","/guides/file-size-review/","version",2
+"faq","k1 game latest build faq","/guides/latest-build-faq/","faq",2
+"troubleshooting","k1 game crash after update","/guides/update-crash-after-install/","troubleshooting",3
+"device","k1 game android version required","/guides/android-version-required/","device",3
+"tutorial","k1 game manual update","/guides/manual-update-guide/","tutorial",3
+"freshness","k1 game version ledger","/guides/weekly-version-ledger/","freshness",3
+hub,"Latest Build","/latest-build/","hub",1
+hub,"Version Archive","/version-archive/","hub",2
+hub,"Update Fixes","/update-fixes/","hub",3
+hub,"Changelog","/changelog/","hub",4
