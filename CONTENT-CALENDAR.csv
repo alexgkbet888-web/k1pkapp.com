@@ -17,3 +17,4 @@ week,site,content_type,target_keyword,url,action
 8,"K1 Version Tracker","refresh","k1 game latest version","/","Review GSC impressions, rewrite title, add FAQ, update internal links"
 9,"K1 Version Tracker","version-wiki","k1 game version history","/guides/version-history-checklist/","Publish or improve: K1 Game Version History Checklist"
 "2026-06-13","published","k1 game update apk safe check","/guides/apk-update-safe-check/","second content expansion","new long-tail page with FAQ, internal links, GA and sitemap entry"
+"2026-06-13","published","k1 game update failed after download","/guides/update-failed-after-download/","third content expansion","new long-tail page with K1 public evidence, FAQ, schema and internal links"
