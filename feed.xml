@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>K1 Version Tracker Feed</title>
+    <link>http://k1pkapp.com/</link>
+    <description>Fresh guide updates for k1 game latest version.</description>
+    <lastBuildDate>Tue, 16 Jun 2026 09:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Weekly K1 Game Version Ledger</title>
+      <link>http://k1pkapp.com/guides/weekly-version-ledger/</link>
+      <guid>http://k1pkapp.com/guides/weekly-version-ledger/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Target keyword: k1 game version ledger</description>
+    </item>
+    <item>
+      <title>Why K1 Game Version Names Conflict Online</title>
+      <link>http://k1pkapp.com/guides/version-name-conflicts/</link>
+      <guid>http://k1pkapp.com/guides/version-name-conflicts/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Target keyword: k1 game version conflict</description>
+    </item>
+    <item>
+      <title>K1 Game V4.0.5 vs V0.7.52: Version Claim Notes</title>
+      <link>http://k1pkapp.com/guides/v405-vs-v0752/</link>
+      <guid>http://k1pkapp.com/guides/v405-vs-v0752/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Target keyword: k1 game v4.0.5 v0.7.52</description>
+    </item>
+    <item>
+      <title>K1 Game Update Loop Fix</title>
+      <link>http://k1pkapp.com/guides/update-loop-fix/</link>
+      <guid>http://k1pkapp.com/guides/update-loop-fix/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Target keyword: k1 game update loop</description>
+    </item>
+    <item>
+      <title>K1 Game Update Failed After Download: Version Checklist</title>
+      <link>http://k1pkapp.com/guides/update-failed-after-download/</link>
+      <guid>http://k1pkapp.com/guides/update-failed-after-download/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Target keyword: k1 game update failed after download</description>
+    </item>
+    <item>
+      <title>K1 Game Crash After Update: Fix Path</title>
+      <link>http://k1pkapp.com/guides/update-crash-after-install/</link>
+      <guid>http://k1pkapp.com/guides/update-crash-after-install/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
+      <description>Target keyword: k1 game crash after update</description>
+    </item>
+  </channel>
+</rss>
