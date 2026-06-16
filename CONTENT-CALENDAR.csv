@@ -25,3 +25,5 @@ week,site,content_type,target_keyword,url,action
 2026-06-16,k1pkapp.com,K1 Version Tracker,"k1 game old apk still works",/guides/old-apk-still-works/,sixth scale cluster
 2026-06-16,k1pkapp.com,K1 Version Tracker,"k1 game latest version without reinstall",/guides/latest-version-without-reinstall/,sixth scale cluster
 2026-06-17,k1pkapp.com,K1 Version Tracker,"k1 game changelog after update",/guides/changelog-after-update/,next content sprint
+7,"K1 Version Tracker","version","k1 game latest apk version check","/guides/latest-apk-version-check/","Publish or improve: K1 Game Latest APK Version Check: Label and File Guide"
+7,"K1 Version Tracker","troubleshooting","k1 game update stuck on loading","/guides/update-stuck-on-loading/","Publish or improve: K1 Game Update Stuck on Loading: Version Fix Path"
