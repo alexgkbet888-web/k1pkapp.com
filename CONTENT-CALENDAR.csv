@@ -21,3 +21,6 @@ week,site,content_type,target_keyword,url,action
 "2026-06-16","published","k1 game latest version before login","/guides/latest-version-before-login/","daily content sprint","new intent-specific page with FAQ, internal links, sitemap and feed entry"
 2026-06-16,k1pkapp.com,K1 Version Tracker,"k1 game version mismatch",/guides/version-mismatch-fix/,fourth ranking cluster
 2026-06-16,k1pkapp.com,K1 Version Tracker,"k1 game update not showing",/guides/update-not-showing/,fifth problem keyword cluster
+2026-06-16,k1pkapp.com,K1 Version Tracker,"k1 game apk version name confusing",/guides/apk-version-name-confusing/,sixth scale cluster
+2026-06-16,k1pkapp.com,K1 Version Tracker,"k1 game old apk still works",/guides/old-apk-still-works/,sixth scale cluster
+2026-06-16,k1pkapp.com,K1 Version Tracker,"k1 game latest version without reinstall",/guides/latest-version-without-reinstall/,sixth scale cluster
