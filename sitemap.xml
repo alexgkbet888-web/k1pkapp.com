@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>http://k1pkapp.com/</loc><lastmod>2026-06-16</lastmod></url>
-  <url><loc>http://k1pkapp.com/guides/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>http://k1pkapp.com/</loc><lastmod>2026-06-17</lastmod></url>
+  <url><loc>http://k1pkapp.com/guides/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>http://k1pkapp.com/latest-build/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pkapp.com/version-archive/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pkapp.com/update-fixes/</loc><lastmod>2026-06-12</lastmod></url>
@@ -24,7 +24,7 @@
   <url><loc>http://k1pkapp.com/terms/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pkapp.com/faq/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pkapp.com/support/</loc><lastmod>2026-06-12</lastmod></url>
-  <url><loc>http://k1pkapp.com/updates/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>http://k1pkapp.com/updates/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>http://k1pkapp.com/register/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pkapp.com/guides/version-history-checklist/</loc><lastmod>2026-06-13</lastmod></url>
   <url><loc>http://k1pkapp.com/guides/apk-update-safe-check/</loc><lastmod>2026-06-13</lastmod><image:image><image:loc>http://k1pkapp.com/assets/k1-evidence/k1-game-login-download-mobile.webp</image:loc><image:caption>K1 public evidence screenshot for apk-update-safe-check</image:caption></image:image></url>
@@ -37,6 +37,7 @@
   <url><loc>http://k1pkapp.com/guides/apk-version-name-confusing/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>http://k1pkapp.com/guides/old-apk-still-works/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>http://k1pkapp.com/guides/latest-version-without-reinstall/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>http://k1pkapp.com/guides/changelog-after-update/</loc><lastmod>2026-06-17</lastmod></url>
 </urlset>
 
 
