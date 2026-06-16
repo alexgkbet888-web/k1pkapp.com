@@ -16,3 +16,5 @@ hub,"Latest Build","/latest-build/","hub",1
 hub,"Version Archive","/version-archive/","hub",2
 hub,"Update Fixes","/update-fixes/","hub",3
 hub,"Changelog","/changelog/","hub",4
+"version","k1 game latest apk version check","/guides/latest-apk-version-check/","version",1
+"troubleshooting","k1 game update stuck on loading","/guides/update-stuck-on-loading/","troubleshooting",1
