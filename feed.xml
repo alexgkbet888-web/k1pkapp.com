@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>K1 Version Tracker Feed</title>
     <link>http://k1pkapp.com/</link>
     <description>Recent guide updates for K1 Version Tracker.</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <item>
+      <title>K1 Game Version Name Changed After Install: What to Compare First</title>
+      <link>http://k1pkapp.com/guides/version-name-changed-after-install/</link>
+      <guid>http://k1pkapp.com/guides/version-name-changed-after-install/</guid>
+      <pubDate>Fri, 19 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Version-check guide for K1 Game users who install one APK label but then see a different version name inside the app or Android app settings.</description>
+    </item>
+    <item>
+      <title>K1 Game Latest Version Source Check: What to Compare First</title>
+      <link>http://k1pkapp.com/guides/latest-version-source-check/</link>
+      <guid>http://k1pkapp.com/guides/latest-version-source-check/</guid>
+      <pubDate>Thu, 18 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Independent version-check guide for comparing K1 Game latest version claims across pages, file labels and update notes before reinstalling.</description>
+    </item>
     <item>
       <title>K1 Game Version Rollback Check: Should You Go Back?</title>
       <link>http://k1pkapp.com/guides/version-rollback-check/</link>
@@ -175,3 +189,4 @@
     </item>
   </channel>
 </rss>
+
