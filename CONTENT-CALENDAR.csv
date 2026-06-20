@@ -1,4 +1,4 @@
-week,site,content_type,target_keyword,url,action
+﻿week,site,content_type,target_keyword,url,action
 1,"K1 Version Tracker","version","k1 game latest version check","/guides/latest-version-check/","Publish or improve: How to Check the Latest K1 Game Version"
 1,"K1 Version Tracker","risk","k1 game old version","/guides/old-version-risks/","Publish or improve: K1 Game Old Version Risks and Use Cases"
 1,"K1 Version Tracker","comparison","k1 game v4.0.5 v0.7.52","/guides/v405-vs-v0752/","Publish or improve: K1 Game V4.0.5 vs V0.7.52: Version Claim Notes"
@@ -29,3 +29,8 @@ week,site,content_type,target_keyword,url,action
 7,"K1 Version Tracker","troubleshooting","k1 game update stuck on loading","/guides/update-stuck-on-loading/","Publish or improve: K1 Game Update Stuck on Loading: Version Fix Path"
 8,"K1 Version Tracker","version hub","k1 game latest version update center","/guides/latest-version-update-center/","Publish or improve: K1 Game Latest Version and Update Center"
 2026-06-18,k1pkapp.com,K1 Version Tracker,"k1 game version rollback check",/guides/version-rollback-check/,next content sprint
+"2026-06-18","published","k1 game latest version source check","/guides/latest-version-source-check/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+"2026-06-19","published","k1 game version name changed after install","/guides/version-name-changed-after-install/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+
+"2026-06-20","planned","k1 game latest version mismatch fix","/guides/latest-version-mismatch-fix/","next content sprint","Publish or improve: K1 Game Latest Version Mismatch Fix"
+"2026-06-21","planned","k1 game apk file size changed but version same","/guides/apk-file-size-changed-same-version/","next content sprint","Publish or improve: K1 Game APK File Size Changed but Version Same"
