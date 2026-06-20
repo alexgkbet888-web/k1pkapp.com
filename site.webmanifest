@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Version Tracker",
+    "short_name":  "K1 Version Tracker",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "K1 Game latest version tracker with Android compatibility notes, changelog checks, update warnings, file-size guidance and Pakistan user installation FAQs.",
+    "icons":  [
+
+              ]
+}
