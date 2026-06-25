@@ -1,0 +1,1 @@
+2026-06-25 support refresh rebuild marker for GitHub Pages.
