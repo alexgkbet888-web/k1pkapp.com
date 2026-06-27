@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1pkapp.com",
+  "brand": "K1 PK App",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1pkapp.com/",
+  "siteType": "authority",
+  "positioning": "K1 latest version, APK update and changelog tracker",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K1 update",
+    "K1 game latest version"
+  ],
+  "secondaryKeywords": [
+    "K1 game news and updates",
+    "K1 update latest version",
+    "K1 APK version check",
+    "K1 changelog"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1pkapp.com/sitemap.xml",
+    "robotsUrl": "https://k1pkapp.com/robots.txt",
+    "feedUrl": "https://k1pkapp.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1pkapp.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
