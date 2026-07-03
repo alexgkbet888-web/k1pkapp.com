@@ -20,17 +20,17 @@
   <url><loc>https://k1pkapp.com/guides/weekly-version-ledger/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>https://k1pkapp.com/about/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>https://k1pkapp.com/contact/</loc><lastmod>2026-06-12</lastmod></url>
-  <url><loc>https://k1pkapp.com/privacy/</loc><lastmod>2026-07-02</lastmod></url>
+  <url><loc>https://k1pkapp.com/privacy/</loc><lastmod>2026-07-03</lastmod></url>
   <url><loc>https://k1pkapp.com/terms/</loc><lastmod>2026-06-12</lastmod></url>
-  <url><loc>https://k1pkapp.com/faq/</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
-  <url><loc>https://k1pkapp.com/support/</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
-  <url><loc>https://k1pkapp.com/updates/</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://k1pkapp.com/faq/</loc><lastmod>2026-07-03</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://k1pkapp.com/support/</loc><lastmod>2026-07-03</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://k1pkapp.com/updates/</loc><lastmod>2026-07-03</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
   <url><loc>https://k1pkapp.com/register/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>https://k1pkapp.com/guides/version-history-checklist/</loc><lastmod>2026-06-13</lastmod></url>
   <url><loc>https://k1pkapp.com/guides/apk-update-safe-check/</loc><lastmod>2026-06-13</lastmod><image:image><image:loc>https://k1pkapp.com/assets/k1-evidence/k1-game-login-download-mobile.webp</image:loc><image:caption>K1 public evidence screenshot for apk-update-safe-check</image:caption></image:image></url>
   <url><loc>https://k1pkapp.com/guides/update-failed-after-download/</loc><lastmod>2026-06-13</lastmod><image:image><image:loc>https://k1pkapp.com/assets/k1-evidence/k1-game-login-download-mobile.webp</image:loc><image:caption>K1 public evidence screenshot for update-failed-after-download</image:caption></image:image></url>
   <url><loc>https://k1pkapp.com/guides/old-version-risks/</loc><lastmod>2026-06-16</lastmod></url>
-  <url><loc>https://k1pkapp.com/updates/</loc><lastmod>2026-07-02</lastmod></url>
+  <url><loc>https://k1pkapp.com/updates/</loc><lastmod>2026-07-03</lastmod></url>
   <url><loc>https://k1pkapp.com/guides/latest-version-before-login/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>https://k1pkapp.com/guides/version-mismatch-fix/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>https://k1pkapp.com/guides/update-not-showing/</loc><lastmod>2026-06-16</lastmod></url>
@@ -50,7 +50,7 @@
 <url><loc>https://k1pkapp.com/guides/apk-file-size-changed-same-version/</loc><lastmod>2026-06-27</lastmod><changefreq>weekly</changefreq><priority>0.84</priority></url>
 
 <url><loc>https://k1pkapp.com/guides/k1-game-latest-version-check-android-setup/</loc><lastmod>2026-06-28</lastmod><changefreq>weekly</changefreq><priority>0.82</priority></url>
-<url><loc>https://k1pkapp.com/guides/apk-signature-mismatch-after-update/</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.86</priority></url>
+<url><loc>https://k1pkapp.com/guides/apk-signature-mismatch-after-update/</loc><lastmod>2026-07-03</lastmod><changefreq>weekly</changefreq><priority>0.86</priority></url>
 </urlset>
 
 
