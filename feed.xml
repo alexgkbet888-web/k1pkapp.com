@@ -56,6 +56,7 @@
 <item><title>Competitor SERP refresh - 2026-07-07</title><link>https://k1pkapp.com/guides/apk-signature-mismatch-after-update/</link><pubDate>Tue, 07 Jul 2026 00:00:00 +0900</pubDate><description>Expanded latest-version mismatch handling with package-name, signature, old-cache, source mismatch, and reinstall-risk branches.</description></item>
 <item><title>Daily K1 content sprint - 2026-07-08</title><link>https://k1pkapp.com/guides/apk-signature-mismatch-after-update/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0900</pubDate><description>Added forced-update triage for cache conflict, package signature, update prompt loop, old APK residue, and safe reinstall decision points.</description></item>
 <item><title>Daily K1 content sprint - 2026-07-08</title><link>https://k1pkapp.com/guides/apk-signature-mismatch-after-update/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0900</pubDate><description>Added forced-update triage for cache conflict, package signature, update prompt loop, old APK residue, and safe reinstall decision points.</description></item>
+<item><title>Daily K1 content sprint - 2026-07-09</title><link>https://k1pkapp.com/guides/apk-signature-mismatch-after-update/</link><pubDate>Thu, 09 Jul 2026 00:00:00 +0900</pubDate><description>Added forced-update triage for cache conflict, package signature, update prompt loop, old APK residue, and safe reinstall decision points.</description></item>
 </channel>
 </rss>
 
