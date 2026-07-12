@@ -59,6 +59,7 @@
 <item><title>Daily K1 content sprint - 2026-07-09</title><link>https://k1pkapp.com/guides/apk-signature-mismatch-after-update/</link><pubDate>Thu, 09 Jul 2026 00:00:00 +0900</pubDate><description>Added forced-update triage for cache conflict, package signature, update prompt loop, old APK residue, and safe reinstall decision points.</description></item>
 <item><title>Daily K1 content sprint - 2026-07-10</title><link>https://k1pkapp.com/guides/latest-version-check/</link><pubDate>Fri, 10 Jul 2026 00:00:00 +0900</pubDate><description>Added update-check guidance for version label drift, forced-update loops, old APK residue, signature mismatch, and safe reinstall decisions.</description></item>
 <item><title>Daily K1 content sprint - 2026-07-11</title><link>https://k1pkapp.com/guides/latest-version-check/</link><pubDate>Sat, 11 Jul 2026 00:00:00 +0900</pubDate><description>Added a forced-update diagnostic that separates stale cache, old APK residue, signature conflict, storage shortage, package-source mismatch, and safe reinstall order.</description></item>
+<item><title>Daily K1 content sprint - 2026-07-12</title><link>https://k1pkapp.com/guides/update-loop-fix/</link><pubDate>Sun, 12 Jul 2026 00:00:00 +0900</pubDate><description>Added a forced-update diagnostic that separates stale cache, old APK residue, signature conflict, storage shortage, package-source mismatch, and safe reinstall order.</description></item>
 </channel>
 </rss>
 
